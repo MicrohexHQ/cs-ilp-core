@@ -30,4 +30,4 @@ Just aim to make it simple and easy to understand.
 - Apache License 2.0
 
 ### Microsoft.CSharp
-- [MIT License](https://github.com/dotnet/corefx/blob/master/LICENSE.TXT)
+- [MIT License](https://github.com/dotnet/corefx/blob/master/LICENSE.TXT) 
